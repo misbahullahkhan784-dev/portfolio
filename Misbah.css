@@ -1,0 +1,188 @@
+/* .Content_protfolio h2{
+
+
+color: blueviolet;
+font-size: 35px;
+text-align: center;
+display: center;
+
+
+
+} */
+
+/* 
+h3{
+
+
+
+text-align: center;
+font-size: 35px;
+color:darkslategrey;
+
+
+
+} */
+
+
+/* .img_section p{
+
+
+display: flex;
+text-align: center;
+
+
+
+
+
+
+} */
+/* 
+.Content_protfolio img{
+
+
+
+padding: 10px;
+border-radius: 30px;
+align-items: center;
+display: flex;
+align-items: center;          
+width: 30%;
+justify-content: space-between;
+
+} */
+/* 
+.Content_protfolio p{
+
+
+text-align: center;
+align-items: center;
+
+
+
+
+
+
+
+} */
+
+
+
+/* 
+.img_section img{
+
+width: 100%;               
+height: auto;
+padding: 30px;
+border-radius: 90px;
+
+
+
+} */
+
+
+
+
+/* 
+.Content_protfolio img {
+
+display:flex;
+justify-content: space-between; 
+align-items: center;            
+width: 400px;
+border-radius: 20px;
+
+
+
+
+
+} */
+
+.Content_protfolio h2{
+
+color: darkolivegreen;
+font-size: 40px;
+text-align: center;
+
+
+
+
+
+}
+
+
+
+.Content_protfolio p{
+
+text-align: center;
+align-items: center;
+
+
+
+}
+
+
+.cards-container img {
+
+
+
+
+display: flex;           
+border-radius: 20px;                
+width: 100%;              
+height: 300px;
+
+
+
+}
+
+
+.Content_protfolio h3{
+
+
+color:darkolivegreen;
+justify-content: space;
+font-size: 35px;
+text-align: center;
+
+
+
+
+
+}
+
+
+.allProjects{
+display: flex;
+justify-content: space-between;
+gap: 20px;
+padding: 20px;
+
+
+
+}
+
+.Content_protfolio button{
+
+color:white;
+background-color: blueviolet;
+list-style-type: none;
+border-radius: 5px;
+font-size: 25px;
+border: none;
+margin-left: 150px;
+
+}
+
+.Content_protfolio button:hover{
+
+
+
+color:black;
+border: none ;
+cursor: pointer;
+background-color:darkolivegreen ;
+
+
+}
+
+
